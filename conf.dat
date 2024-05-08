@@ -1,0 +1,23 @@
+video_of_car.mp4:
+    region_of_interest: (0, 0, 500, 700)
+    captured_lane_length: 100
+    lanes: 3
+    speed_limit: 60
+
+video_of_car2.mp4:
+    region_of_interest: (0, 0, 430, 700)
+    captured_lane_length: 100
+    lanes: 3
+    speed_limit: 90
+
+video_of_car3.mp4:
+    region_of_interest: (430, 0, 900, 700)
+    captured_lane_length: 100
+    lanes: 3
+    speed_limit: 100
+
+video_of_car4.mp4:
+    region_of_interest: (230, 120, 900, 700)
+    captured_lane_length: 40
+    lanes: 3
+    speed_limit: 50
